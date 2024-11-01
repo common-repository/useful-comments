@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<div leading="3"/>
+	<table leading="3" display="none"/>
+	<td leading="3"/>
+	<tr leading="3"/>
+	<p leading="3"/>
+	<a color="#CC0000" fontWeight="bold" fontStyle="normal"/>
+	<blockquote marginLeft="20" fontStyle="italic" leading="3" color="#666666"/>
+	<object display="none" leading="0"/>
+	<!--class="yes"为是否为class的标记，不标记class一律看做元素-->
+	<!--以下为class-->
+	<line_numbers display="none" leading="0" class="yes"/>
+	<code marginLeft="20" class="yes"/>
+</root>
